@@ -6,7 +6,6 @@ node_modules
 
 # report
 /report.json
-/packages/*/report.json
 
 # production
 /packages/*/build
@@ -25,7 +24,6 @@ cache
 .idea/
 *.pem
 .history
-.vscode
 .git
 .github
 .gitignore
